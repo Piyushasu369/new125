@@ -1,0 +1,3 @@
+git add .
+git commit -m "SCM-4: test commit to verify Jira integration"
+git push
